@@ -1,2 +1,2 @@
-# hellowhale
-Simple Docker Demo App
+# HelloWhale
+Simple Kubernetes Demo with CI/CD
